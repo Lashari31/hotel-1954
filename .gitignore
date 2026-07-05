@@ -1,0 +1,8 @@
+# Old/superseded files (kept locally, not published)
+_archive/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
